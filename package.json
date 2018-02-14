@@ -1,0 +1,27 @@
+{
+  "name": "nodeaccbkgrnd",
+  "version": "1.0.0",
+  "description": "Node Project for AccurateBackgroundCk",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon app"
+  },
+  "dependencies": {
+    "bcryptjs": "*",
+    "body-parser": "*",
+    "cors": "*",
+    "dotenv": "^5.0.0",
+    "express": "*",
+    "jsonwebtoken": "*",
+    "mongoose": "*",
+    "passport": "*",
+    "passport-jwt": "*"
+  },
+  "repository": {
+    "type": "git",
+    "url": "y"
+  },
+  "author": "Ken Skversky",
+  "license": "ISC"
+}
